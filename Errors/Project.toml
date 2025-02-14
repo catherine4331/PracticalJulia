@@ -1,0 +1,4 @@
+name = "Errors"
+uuid = "a9324cb2-19eb-43d2-84c5-69230db8dfed"
+authors = ["Catherine Reid <catherine.reid@neo4j.com>"]
+version = "0.1.0"
