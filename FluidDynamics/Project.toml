@@ -1,4 +1,4 @@
-name = "Physics"
-uuid = "485b2306-b929-44f6-bc18-17d0c735b6a7"
+name = "FluidDynamics"
+uuid = "5122f430-ffa4-445a-ad7e-5b0fdb4a8b18"
 authors = ["Catherine Reid <catherine4331@gmail.com>"]
 version = "0.1.0"
